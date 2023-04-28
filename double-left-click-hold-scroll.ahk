@@ -6,7 +6,7 @@ SendMode Input
 SetWorkingDir %A_ScriptDir%
 #MaxHotkeysPerInterval 1000
 
-~RButton::
+~LButton::
 KeyWait, LButton, D T0.3
 If ErrorLevel
     Return
