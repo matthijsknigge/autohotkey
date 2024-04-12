@@ -1,5 +1,5 @@
 ; AutoHotkey script for scrolling with double left-click and hold
-
+ 
 #NoEnv
 #SingleInstance force
 SendMode Input
